@@ -1,2 +1,2 @@
 # Nell
-Graphic/type designer
+Typeface
